@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Suryansh Maheshwari</h1>
-<h3 align="center">A passionate frontend developer from India, who's also learning backend .❤️</h3>
+<h3 align="center">A passionate Web Developer from India, who's also learning backend .❤️</h3>
 <a href="https://www.linkedin.com/in/suryansh-maheshwari-341a641b7/"> 
     <img aling="left" alt="Suryansh Maheshwari | LinkedIn" width=35px
     src="https://img.icons8.com/fluent/2x/linkedin.png">
+</a>
+<a href="https://www.instagram.com/suryam_000/"> 
+    <img aling="left" alt="Suryansh Maheshwari | instagram" width=35px
+    src="https://img.icons8.com/fluent/2x/instagram-new.png">
 </a>
 
 - 🎓 I'm currently a Sophomore at ABES Engineering College, Ghaziabad
