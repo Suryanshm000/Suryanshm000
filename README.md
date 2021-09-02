@@ -9,7 +9,7 @@
     src="https://img.icons8.com/fluent/2x/instagram-new.png">
 </a>
 
-- 🎓 I'm currently a Sophomore at ABES Engineering College, Ghaziabad
+- 🎓 I'm currently a pre-final year student at ABES Engineering College, Ghaziabad
 - 🔎 I'm currently learning **React.js** for frontend and **Django** for backend web development.
 - 🌱 I’m also learning Data Structures and Algorithms.
 
