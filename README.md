@@ -12,6 +12,7 @@
 - 🎓 I'm currently a pre-final year student at ABES Engineering College, Ghaziabad
 - 🔎 I'm currently learning **React.js** for frontend and **Django** for backend web development.
 - 🌱 I’m also learning Data Structures and Algorithms.
+- ⚡️   Fun fact: I like playing chess.
 
 - 📫 How to reach me **suryanshm000@gmail.com**
 
