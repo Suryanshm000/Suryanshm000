@@ -4,6 +4,10 @@
     <img aling="left" alt="Suryansh Maheshwari | LinkedIn" width=35px
     src="https://img.icons8.com/fluent/2x/linkedin.png">
 </a>
+<a href="https://twitter.com/suryanshm000"> 
+    <img aling="left" alt="Suryansh Maheshwari | twitter" width=35px
+    src="https://img.icons8.com/fluent/2x/twitter.png">
+</a>
 <a href="https://www.instagram.com/suryam_000/"> 
     <img aling="left" alt="Suryansh Maheshwari | instagram" width=35px
     src="https://img.icons8.com/fluent/2x/instagram-new.png">
