@@ -38,3 +38,5 @@
  <h3>My Top Languages:</h3>
 
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshm000&layout=compact" alt="suryansh" /> </p>
+
+![Suryansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryanshm000) 
