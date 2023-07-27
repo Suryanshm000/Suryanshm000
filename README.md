@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryansh Maheshwari</h1>
-<h3 align="center">A passionate Web Developer from India, who's also learning backend .❤️</h3>
+<h4 align="center">A passionate Full Stack Developer from India ❤️</h4>
 <a href="https://www.linkedin.com/in/suryanshm000/"> 
     <img aling="left" alt="Suryansh Maheshwari | LinkedIn" width=35px
     src="https://img.icons8.com/fluent/2x/linkedin.png">
@@ -13,8 +13,8 @@
     src="https://img.icons8.com/fluent/2x/instagram-new.png">
 </a>
 
-- 🎓 I'm currently a pre-final year student at ABES Engineering College, Ghaziabad
-- 🔎 I'm currently learning **React.js** for frontend and **Django** for backend web development.
+- 🎓 Hi, I'm Suryansh Maheshwari, B.Tech CSE Grad '23 ABES Engineering College, Ghaziabad
+- 🔎 I'm exploring **React.js** for frontend and **Django** for backend web development.
 - 🌱 I’m also learning Data Structures and Algorithms.
 - ⚡️   Fun fact: I like playing chess.
 
